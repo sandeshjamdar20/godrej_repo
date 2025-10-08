@@ -1,0 +1,8 @@
+/* Set the background color to blue */
+body {
+    background-color: #ff8800; /* Orange */ 
+    color: white; /* Makes text visible on blue background */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
